@@ -1,4 +1,4 @@
-# Schema.org Documentation Summary
+# Schema.org 88Documentation Summary
 Schema.org provides a collection of shared vocabularies webmasters can use to mark up their pages in ways that can be understood by the major search engines: Google, Microsoft, Yandex and Yahoo!
 
 You use the schema.org vocabulary along with the [Microdata](http://en.wikipedia.org/wiki/Microdata_(HTML)), [RDFa](http://en.wikipedia.org/wiki/RDFa), or [JSON-LD](http://en.wikipedia.org/wiki/JSON-LD) formats to add information to your Web content.
